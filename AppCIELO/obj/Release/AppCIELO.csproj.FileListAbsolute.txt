@@ -1,0 +1,51 @@
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\ApplicationInsights.config
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\csc.exe
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\Microsoft.CodeAnalysis.dll
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\Microsoft.CSharp.Core.targets
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\Microsoft.VisualBasic.Core.targets
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\System.Collections.Immutable.dll
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\System.Reflection.Metadata.dll
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\vbc.exe
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\VBCSCompiler.exe
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\roslyn\VBCSCompiler.exe.config
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\AppCIELO.dll.config
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\AppCIELO.dll
+\\192.168.0.145\ASPdesarrollo\APP\Appcielo\AppCIELO.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\ApplicationInsights.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\AppCIELO.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\AppCIELO.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\AppCIELO.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Oracle.DataAccess.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\obj\Release\AppCIELO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\obj\Release\AppCIELO.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AppCIELO\AppCIELO\obj\Release\AppCIELO.pdb
